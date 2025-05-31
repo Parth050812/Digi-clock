@@ -12,3 +12,5 @@ function upclock()
 }
 upclock();
 setInterval(upclock,1000);
+
+//damn son
